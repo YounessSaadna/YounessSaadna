@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate developer from Morocco </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YounessSaadna" alt="YounessSaadna" /> </p>
 
-- 🔭 I’m currently working on [Tweet Analysis ](https://github.com/devded/NLP-Thesis)
+## ✉️ Find me on:
 
-- 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **younessaadna1997@gmail.com**
+<p align="center">
+
+ <a href="https://www.linkedin.com/in/y-saadna/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIN" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:younessaadna1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="GMAIL" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
 
 #### 💻 Stack I Work With
 
